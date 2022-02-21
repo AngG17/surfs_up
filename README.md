@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up
 
 ## Overview
 
@@ -8,7 +8,9 @@ The purpose of this analysis is to provide information about weather trends in O
 
 - The average temperature in June is 74.9 degrees compared to 71 degrees in December
 - The maximum temperature in June is 85 degrees compared to 83 degrees in December
-- Queries can be written to find average temperatures for the other two seasons in a year
+- The minimum temperature in June is 64 degrees compared to 56 degrees in December
+
+### Statistics
 
 June
 
@@ -20,4 +22,4 @@ December
 
 ## Summary
 
-The air temperature is favorable in both June and December to conclude that a surf and ice cream shop business in Oahu woud be sustainable all year.  It would be helpful to look at precipitation totals during the same time frames to see if a wet season could impact the number of days it would be safe to surf.
+The air temperature is favorable in both June and December to conclude that a surf and ice cream shop business in Oahu would be sustainable all year.  It would be helpful to look at precipitation totals during the same time frames to see if a wet season could impact the number of days a person would likely surf.  It would also be helpful to look at the number of times the temperature was below 60 degrees in any given year in December.  If it is just a couple days each year, then that shouldn't play a huge factor in sustainability.  Are the wet days the same days as the cold days?  That could be another query to look at.
